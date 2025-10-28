@@ -4,11 +4,9 @@
 
 This repository documents my personal \*\*I2P eepsite\*\* setup.
 
-
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/69865fd1-63be-4714-9b6e-bb2e358441a1" />
 
 ---
-
-
 
 \## Overview
 
